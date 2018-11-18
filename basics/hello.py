@@ -12,4 +12,4 @@ def ask_name():
 
 if __name__ == "__main__":
     print_hello()
-    ask_name()
+    # ask_name()
